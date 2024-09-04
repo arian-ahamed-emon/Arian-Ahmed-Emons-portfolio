@@ -1,1 +1,0 @@
-A personal portfolio website built using HTML, CSS, and JavaScript, showcasing my skills, projects, and achievements as a developer. It reflects my expertise in creating clean, responsive designs and dynamic web experiences.
